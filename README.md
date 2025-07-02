@@ -1,9 +1,9 @@
 # Jarvis-AI-Assistant
 Presentation in Jarvis.pdf
 ## Roles
-1. **Ahmed** as Speech.
-2. **Hamza** as NLP.
-3. **Nada** as Generative text.
+1. **Ahmed** as Speech and models integration.
+2. **Hamza** as NLP ( intent recognition and conversation ).
+3. **Nada** as Generative text ( code and story generation ).
 4. **Amr** as Generative image.
 
 ## IMPORTANT NOTE
