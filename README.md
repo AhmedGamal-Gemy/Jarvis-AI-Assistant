@@ -28,17 +28,20 @@ A standalone desktop application for the Jarvis AI Assistant that runs without r
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/noah-mclain/fluid-jarvis-whisper.git
-   cd fluid-jarvis-whisper
+   git clone https://github.com/AhmedGamal-Gemy/Jarvis-AI-Assistant.git
+   cd Jarvis-AI-Assistant
    ```
-
-2. Install JavaScript dependencies:
+2. checkout to gui branch
+   ```sh
+   git checkout gui
+   ```
+3. Install JavaScript dependencies:
 
    ```sh
    npm install
    ```
 
-3. Install Python dependencies:
+4. Install Python dependencies:
 
    ```sh
    pip install -r requirements.txt
