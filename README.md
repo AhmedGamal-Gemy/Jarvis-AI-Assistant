@@ -1,5 +1,3 @@
----
-
 ## 🧪 From Scratch Model
 
 The `stt-model-from-scratch` folder contains:
@@ -13,7 +11,6 @@ This approach was ultimately set aside due to:
 - Slow convergence on a relatively small dataset
 - Better baseline results achievable through transfer learning
 
----
 
 ## 🐋 Fine-tuning Whisper for Egyptian Dialect
 
