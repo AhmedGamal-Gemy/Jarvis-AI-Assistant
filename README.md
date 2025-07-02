@@ -1,7 +1,7 @@
 ## 🧪 From Scratch Model
 
 The `stt-model-from-scratch` folder contains:
-- Custom model architectures (e.g., CNN + RNN / Transformer-based ASR)
+- Custom model architectures (CNN, LSTM)
 - Feature extraction and preprocessing scripts
 - Training scripts and evaluation notebooks
 - Experiment logs and notes
